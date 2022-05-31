@@ -1,0 +1,8 @@
+.infoLink {
+    color: var(--gray);
+    text-decoration: inherit;
+}
+
+.p1 .span1 b {
+    color: var(--white);
+}
