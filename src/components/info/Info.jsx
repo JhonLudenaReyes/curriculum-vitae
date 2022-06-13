@@ -1,7 +1,5 @@
 import React from "react";
 import {
-  GitHub,
-  LinkedIn,
   Home,
   Phone,
   PhoneAndroid,
@@ -15,40 +13,6 @@ const Info = () => {
     <>
       <div className="info">
         <p className="heading">Info</p>
-        <p className="p1">
-          <span className="span1">
-            <GitHub className="img" color="action" fontSize="large" />
-            <b>GitHub</b>
-            <span>
-              <br />
-              <a
-                rel="noreferrer"
-                href="https://github.com/JhonLudenaReyes"
-                target={"_blank"}
-                className="infoLink"
-              >
-                JhonLudenaReyes
-              </a>
-            </span>
-          </span>
-        </p>
-        <p className="p1">
-          <span className="span1">
-            <LinkedIn className="img" color="action" fontSize="large" />
-            <b>LinkedIn</b>
-            <span>
-              <br />
-              <a
-                rel="noreferrer"
-                href="linkedin.com/in/jhon-jefferson-ludeña-reyes-847307195"
-                target={"_blank"}
-                className="infoLink"
-              >
-                jhon-jefferson-ludeña-reyes-847307195
-              </a>
-            </span>
-          </span>
-        </p>
         <p className="p1">
           <span className="span1">
             <Home className="img" color="action" fontSize="large" />
