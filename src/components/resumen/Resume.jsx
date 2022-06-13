@@ -10,7 +10,7 @@ const Resume = () => {
       <Container>
         <div className="resume-box">
           <Row>
-            <Col>
+            <Col lg="4" style={{ width: "270px" }}>
               <LeftSection />
             </Col>
             <Col>
