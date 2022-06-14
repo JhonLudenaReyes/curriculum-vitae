@@ -1,7 +1,98 @@
+/*Right Section*/
 .right-section {
     padding: 40px 30px;
     background: var(--white);
     width: 99.9%;
     float: left;
     height: 1350px;
+}
+
+/*Profile*/
+
+/*.right-section .img-account-circule {
+    background: var(--black);
+    width: 36px;
+    padding: 7px;
+    border-radius: 17px;
+    float: left;
+    display: inline-flexbox;
+    margin-top: -6px;
+}*/
+
+.right-heading {
+    padding: 8px 0px 8px 0px;
+}
+
+.right-heading .account-circle{
+    width: 50px;
+    height: 50px;
+}
+
+.right-heading .p2{
+    margin: 13px auto;
+    padding: 2px;
+    border-bottom: 1px solid var(--lightgray);
+    border-top: 1px solid var(--lightgray);
+    color: var(--black);
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bolder;
+    line-height: 18px;
+}
+
+/*Work Experience*/
+
+.p3 {
+    margin-top: 20px;
+    color: var(--lightgray);
+    text-align: justify;
+    word-spacing: -4px;
+
+}
+
+.left {
+    width: 25%;
+    float: left;
+}
+
+.right {
+    width: 75%;
+    float: left;
+}
+
+.lr-box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.p4 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.p5 {
+    font-size: 12px;
+    color: var(--lightgray);
+}
+
+.s-box {
+    width: 50%;
+    float: left;
+    padding: 20px 20px 20px 0px;
+}
+
+#progress {
+    background: #333;
+    border-radius: 13px;
+    height: 8px;
+    width: 100%;
+}
+
+#progress:after {
+    content: "";
+    display: block;
+    background: var(--blue);
+    width: 50%;
+    height: 100%;
+    border-radius: 9px;
 }

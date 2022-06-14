@@ -1,5 +1,6 @@
 import React from "react";
 import Profile from "../profile/Profile";
+import WorkExperience from "../workExperience/WorkExperience";
 import "./styles/RightSection.css";
 
 const RightSection = () => {
@@ -7,6 +8,7 @@ const RightSection = () => {
     <>
       <div className="right-section">
         <Profile />
+        <WorkExperience />
       </div>
     </>
   );
