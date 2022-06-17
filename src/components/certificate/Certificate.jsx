@@ -32,11 +32,16 @@ const Certificate = () => {
           </p>
           <p className="p5">
             Referente: ENRIQUE JAVIER ALVARADO LLERENA (Director Ejecutivo
-            Fundación telefónica Ecuador)
+            Fundación telefónica Ecuador){" "}
+            <Link
+              to="/javascript-certificate"
+              className="certificte-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              "Ver certificado"
+            </Link>
           </p>
-          <Link to="/" className="certificte-link">
-            Ver certificado
-          </Link>
         </div>
         <div className="clearfix"></div>
       </div>
@@ -53,11 +58,16 @@ const Certificate = () => {
           </p>
           <p className="p5">
             Referente: ENRIQUE JAVIER ALVARADO LLERENA (Director Ejecutivo
-            Fundación telefónica Ecuador)
+            Fundación telefónica Ecuador){" "}
+            <Link
+              to="/web-desing-certificate"
+              className="certificte-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              "Ver certificado"
+            </Link>
           </p>
-          <Link to="/" className="certificte-link">
-            Ver certificado
-          </Link>
         </div>
         <div className="clearfix"></div>
       </div>
