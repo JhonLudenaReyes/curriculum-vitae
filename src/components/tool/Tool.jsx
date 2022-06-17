@@ -11,9 +11,9 @@ import MYSQL from "../../image/MYSQL.png";
 import GIT from "../../image/Git_icon.svg.png";
 import GITHUB from "../../image/GitHub-logo.png";
 import NPM from "../../image/NPM.png";
-import NODEJS from "../../image/NODEJS.png";
-import BABEL from "../../image/BABEL.png";
-import WEBPACK from "../../image/WEBPACK.png";
+import Java from "../../image/JAVA.png";
+import SPRING from "../../image/Spring.png";
+import SPRINGBOOT from "../../image/Spring-Boot.png";
 
 const Tool = () => {
   return (
@@ -34,13 +34,13 @@ const Tool = () => {
       <img src={JAVASCRIPT} alt="JAVASCRIPT" className="h-img" />
       <img src={REACT} alt="REACT" className="h-img" />
       <img src={REDUX} alt="REDUX" className="h-img" />
+      <img src={Java} alt="Java" className="h-img" />
+      <img src={SPRING} alt="SPRING" className="h-img" />
+      <img src={SPRINGBOOT} alt="SPRINGBOOT" className="h-img" />
       <img src={MYSQL} alt="MYSQL" className="h-img" />
       <img src={GIT} alt="GIT" className="h-img" />
       <img src={GITHUB} alt="GITHUB" className="h-img" />
       <img src={NPM} alt="NPM" className="h-img" />
-      <img src={BABEL} alt="GIT" className="h-img" />
-      <img src={WEBPACK} alt="NPM" className="h-img" />
-      <img src={NODEJS} alt="NODEJS" className="h-img" />
       <br />
       <br />
     </>

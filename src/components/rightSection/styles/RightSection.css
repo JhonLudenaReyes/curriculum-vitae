@@ -4,7 +4,7 @@
     background: var(--white);
     width: 99.9%;
     float: left;
-    height: 2500px;
+    height: 2380px;
 }
 
 /*Profile*/
@@ -20,7 +20,7 @@
 }
 
 .right-heading {
-    padding: 8px 0px 8px 0px;
+    padding: 2px 0px 2px 0px;
 }
 
 .right-heading .account-circle{
@@ -43,7 +43,8 @@
 /*Work Experience*/
 
 .p3 {
-    margin-top: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     color: var(--lightgray);
     text-align: justify;
     word-spacing: -4px;
@@ -61,11 +62,13 @@
 }
 
 .lr-box {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .p4 {
+    margin-top: 2px;
+    margin-bottom: 2px;
     font-size: 14px;
     font-weight: 600;
 }
@@ -92,7 +95,7 @@
     content: "";
     display: block;
     background: var(--blue);
-    width: 50%;
+    width: 70%;
     height: 100%;
     border-radius: 9px;
 }
@@ -108,7 +111,7 @@
     content: "";
     display: block;
     background: var(--blue);
-    width: 40%;
+    width: 80%;
     height: 100%;
     border-radius: 9px;
 }
@@ -124,7 +127,7 @@
     content: "";
     display: block;
     background: var(--blue);
-    width: 80%;
+    width: 60%;
     height: 100%;
     border-radius: 9px;
 }
@@ -140,7 +143,7 @@
     content: "";
     display: block;
     background: var(--blue);
-    width: 90%;
+    width: 50%;
     height: 100%;
     border-radius: 9px;
 }

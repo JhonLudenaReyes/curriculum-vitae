@@ -2,6 +2,9 @@ import React from "react";
 import { School } from "@mui/icons-material";
 import "../rightSection/styles/RightSection.css";
 import { Col, Row } from "react-bootstrap";
+import { Link } from "react-router-dom";
+
+import "./styles/Certificate.css";
 
 const Certificate = () => {
   return (
@@ -31,6 +34,9 @@ const Certificate = () => {
             Referente: ENRIQUE JAVIER ALVARADO LLERENA (Director Ejecutivo
             Fundación telefónica Ecuador)
           </p>
+          <Link to="/" className="certificte-link">
+            Ver certificado
+          </Link>
         </div>
         <div className="clearfix"></div>
       </div>
@@ -49,6 +55,9 @@ const Certificate = () => {
             Referente: ENRIQUE JAVIER ALVARADO LLERENA (Director Ejecutivo
             Fundación telefónica Ecuador)
           </p>
+          <Link to="/" className="certificte-link">
+            Ver certificado
+          </Link>
         </div>
         <div className="clearfix"></div>
       </div>

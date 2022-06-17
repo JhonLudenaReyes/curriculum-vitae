@@ -18,16 +18,16 @@ const Skill = () => {
       </div>
       <div className="clearfix"></div>
       <div className="s-box">
-        <p className="p6">Graphic Designer</p>
+        <p className="p6">Software Developer</p>
         <div id="progress"></div>
-        <p className="p6">Web Desing</p>
+        <p className="p6">Frontend Developer</p>
         <div id="progress1"></div>
       </div>
 
       <div className="s-box">
-        <p className="p6">HTML</p>
+        <p className="p6">Web Desingner</p>
         <div id="progress2"></div>
-        <p className="p6">CSS</p>
+        <p className="p6">Backend Developer</p>
         <div id="progress3"></div>
       </div>
       <div className="clearfix"></div>
