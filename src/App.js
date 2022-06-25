@@ -1,3 +1,4 @@
+import React from "react";
 import Resume from "./components/resumen/Resume";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
