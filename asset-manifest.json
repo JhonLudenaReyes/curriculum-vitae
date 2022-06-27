@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/curriculum-vitae/static/css/main.cd636dcc.css",
-    "main.js": "/curriculum-vitae/static/js/main.52b2b6d2.js",
+    "main.css": "/curriculum-vitae/static/css/main.7cc094d0.css",
+    "main.js": "/curriculum-vitae/static/js/main.db3d4d42.js",
     "static/media/CSS3.png": "/curriculum-vitae/static/media/CSS3.1ffc3ff8c4a1cb46967c.png",
     "static/media/FT EC - Programación con JavaScript_page-0001.jpg": "/curriculum-vitae/static/media/FT EC - Programación con JavaScript_page-0001.492317e9a04e4792e5a0.jpg",
     "static/media/FT EC - Diseño Web con HTML5 + CSS_page-0001.jpg": "/curriculum-vitae/static/media/FT EC - Diseño Web con HTML5 + CSS_page-0001.74134a839c5cde889278.jpg",
@@ -16,11 +16,11 @@
     "static/media/MYSQL.png": "/curriculum-vitae/static/media/MYSQL.1dc2631b700f5f1688c4.png",
     "static/media/REDUX.png": "/curriculum-vitae/static/media/REDUX.b3b939c66aecf7d53967.png",
     "index.html": "/curriculum-vitae/index.html",
-    "main.cd636dcc.css.map": "/curriculum-vitae/static/css/main.cd636dcc.css.map",
-    "main.52b2b6d2.js.map": "/curriculum-vitae/static/js/main.52b2b6d2.js.map"
+    "main.7cc094d0.css.map": "/curriculum-vitae/static/css/main.7cc094d0.css.map",
+    "main.db3d4d42.js.map": "/curriculum-vitae/static/js/main.db3d4d42.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd636dcc.css",
-    "static/js/main.52b2b6d2.js"
+    "static/css/main.7cc094d0.css",
+    "static/js/main.db3d4d42.js"
   ]
 }
