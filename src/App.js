@@ -12,12 +12,15 @@ const App = () => {
     <>
       <Router>
         <Routes>
-          <Route path="/" element={<Resume />} />
+          <Route path="/curriculum-vitae" element={<Resume />} />
           <Route
-            path="/javascript-certificate"
+            path="/curriculum-vitae/javascript-certificate"
             element={<CertifJavascript />}
           />
-          <Route path="/web-desing-certificate" element={<CertifWebDesing />} />
+          <Route
+            path="/curriculum-vitae/web-desing-certificate"
+            element={<CertifWebDesing />}
+          />
         </Routes>
       </Router>
     </>

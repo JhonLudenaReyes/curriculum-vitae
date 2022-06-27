@@ -34,7 +34,7 @@ const Certificate = () => {
             Referente: ENRIQUE JAVIER ALVARADO LLERENA (Director Ejecutivo
             Fundación telefónica Ecuador){" "}
             <Link
-              to="/javascript-certificate"
+              to="/curriculum-vitae/javascript-certificate"
               className="certificte-link"
               target="_blank"
               rel="noopener noreferrer"
@@ -60,7 +60,7 @@ const Certificate = () => {
             Referente: ENRIQUE JAVIER ALVARADO LLERENA (Director Ejecutivo
             Fundación telefónica Ecuador){" "}
             <Link
-              to="/web-desing-certificate"
+              to="/curriculum-vitae/web-desing-certificate"
               className="certificte-link"
               target="_blank"
               rel="noopener noreferrer"
