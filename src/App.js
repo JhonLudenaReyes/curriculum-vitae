@@ -12,7 +12,7 @@ const App = () => {
     <>
       <Router>
         <Routes>
-          <Route path="/" element={<Resume />} />
+          <Route path="/curriculum-vitae" element={<Resume />} />
           <Route
             path="/curriculum-vitae/javascript-certificate"
             element={<CertifJavascript />}
