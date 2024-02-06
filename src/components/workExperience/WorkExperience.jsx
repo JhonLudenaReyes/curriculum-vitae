@@ -17,6 +17,39 @@ const WorkExperience = () => {
         </Row>
       </div>
       <div className="clearfix"></div>
+
+      <div className="lr-box">
+        <div className="left">
+          <p className="p4">Jul 2022 - Ene 2023</p>
+          <p className="p5">Ecuador</p>
+        </div>
+        <div className="right">
+          <p className="p4">VIAMATICA (Durante 6 meses)</p>
+          <p className="p5">FULL STACK DEVELOPER</p>
+          <p className="p5">
+            o IMPLEMENTACIÓN BACKEND PARA EL LENGUAJE DE PROGRAMACION JAVA
+            <br />
+            o FRAMEWORK DE DESARROLLO SPRING BOOT
+            <br />
+            o SPRING TOOL SUITE COMO IDE DE DESARROLLO PARA LA PARTE BACKEND
+            <br />
+            o VISUAL STUDIO CODE COMO EDITOR DE CÓDIGO PARA LA PARTE FRONTEND
+            <br />
+            o ESTRUCTURA DEL PROYECTO: EL MODELO VISTA CONTROLADOR PARA EL FLUJO
+            DE DATOS
+            <br />
+            o DESARROLLO DE INTERFACES MEDIATE ANGULAR.JS
+            <br />
+            o IMPLEMENTACION DE FRAMEWORK CSS PRIMENG PARA INTERFACES EN ANGULAR
+            <br />
+            o CONSUMO DE SERVICIOS REST
+            <br />o UTILIZACIÓN DE LA TECNOLOGÍA GIT PARA EL CONTROL DE
+            VERSIONES
+          </p>
+        </div>
+        <div className="clearfix"></div>
+      </div>
+
       <div className="lr-box">
         <div className="left">
           <p className="p4">Feb 2020 - Mar 2021</p>
