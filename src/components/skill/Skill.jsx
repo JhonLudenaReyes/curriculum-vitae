@@ -2,7 +2,6 @@ import React from "react";
 import { Construction } from "@mui/icons-material";
 import "../rightSection/styles/RightSection.css";
 import { Col, Row } from "react-bootstrap";
-import { colors } from "@mui/material";
 
 const Skill = () => {
   return (
