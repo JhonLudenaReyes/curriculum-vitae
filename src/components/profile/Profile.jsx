@@ -17,15 +17,13 @@ const Profile = () => {
         </Row>
       </div>
       <p className="p3">
-        Fundamentos en ingeniería de sistemas, telemática, comunicaciones,
-        computación, electrónica y el campo de las telecomunicaciones.
-        Conocimientos en diseño, desarrollo e implementación de sistemas
-        informáticos aplicando diversas tecnologías y utilizando herramientas de
-        software y hardware para su despliegue, además de contar con habilidades
-        para diseñar, estructurar y gestionar bases de datos relacionales.
-        Aptitudes y destrezas referentes a ciencia y al ámbito tecnológico para
-        aportar con soluciones a problemas reales. Capacidades gerenciales para
-        el área de sistemas y administrar proyectos de desarrollo.
+        Ingeniero en Sistemas enfocado en el desarrollo Full Stack. Especialista
+        en la creación de APIs robustas y conocimientos sólidos en ecosistemas
+        como Java (Spring Boot) y C# (.NET Core). Con experiencia en la creación
+        de interfaces dinámicas y escalables utilizando Angular y React/Redux.
+        Cuento con habilidades avanzadas en el diseño y gestión de bases de
+        datos relacionales, implementación de arquitecturas MVC, control de
+        versiones con Git y documentación de APIs con Swagger.
       </p>
       <div className="clearfix"></div>
       <br />
